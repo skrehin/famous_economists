@@ -1,0 +1,24 @@
+
+h1 {
+	font-family: TrendSansOne;
+	font-style: italic;
+       font-size: 34px;
+	   font-variant: small-caps;
+}
+ @font-face { 
+    font-family: TrendSansOne; 
+    src: local('TrendSansOne'), 
+        url(TrendSansOne.ttf);
+     }
+	 p1 {
+		 font-family: TrendSansFive;
+	font-style: italic;
+       font-size: 27px;
+	   font-variant: small-caps;
+		 color: white;
+	 }
+	 @font-face { 
+    font-family: TrendSansFive; 
+    src: local('TrendSansOne'), 
+        url(TrendSansOne.ttf);
+     }
